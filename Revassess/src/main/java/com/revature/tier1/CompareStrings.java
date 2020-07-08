@@ -6,6 +6,8 @@ public class CompareStrings {
     	if(s1.equals(s2)) {
     		return true;
     	}
-        return false;
+    	else {
+    		return false;
+    	}
     }
 }
